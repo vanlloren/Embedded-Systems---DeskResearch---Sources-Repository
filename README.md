@@ -37,18 +37,6 @@ The repository is organized into the following folders based on content type:
 
 3. **File Naming**: Files should be named descriptively to indicate their content, making it easier to identify relevant materials at a glance.
 
-### Adding New Sources
-
-When contributing new materials to this repository:
-
-1. **Choose the Appropriate Folder**: Place your file in the correct folder based on its type.
-
-2. **Use Descriptive Names**: Name files clearly and descriptively (e.g., `kubernetes-edge-computing-whitepaper-2024.pdf` instead of `document1.pdf`).
-
-3. **Organize Subdirectories**: If a category grows large, consider creating subdirectories within the main folders to further organize content by topic or date.
-
-4. **Update Documentation**: If adding significant new materials or creating new organizational structures, update this README accordingly.
-
 ## Purpose and Scope
 
 This repository focuses on:
@@ -57,15 +45,3 @@ This repository focuses on:
 - Embedded systems integration
 - Edge computing solutions
 - Container orchestration in resource-constrained environments
-
-## Contributing
-
-To contribute to this repository:
-1. Add your sources to the appropriate folder
-2. Ensure file names are clear and descriptive
-3. Commit with meaningful messages describing the added content
-4. Consider adding notes or context if the material requires additional explanation
-
-## Contact
-
-For questions or suggestions about the repository organization, please open an issue or contact the repository maintainer.
